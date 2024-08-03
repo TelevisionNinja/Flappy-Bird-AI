@@ -1,5 +1,5 @@
 # Flappy-Bird-AI
-An AI that plays flappy bird using neuroevolution. The bird is controlled using a feedforward neural network. The neural network evolves over time using a genetic algorithm.
+An AI that plays flappy bird using (conventional) neuroevolution. The bird is controlled using a feedforward neural network. The neural network evolves over time using a genetic algorithm.
 
 ![1](./images/1.png)
 ![2](./images/2.png)
